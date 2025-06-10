@@ -4,3 +4,13 @@ h1 {
 .home-page {
   background-color: palegoldenrod;
 }
+.about-page {
+  background-color: palegoldenrod;
+}
+.contact-page {
+  background-color: palegoldenrod;
+}
+footer {
+  text-align: center;
+  justify-content: space-evenly;
+}
